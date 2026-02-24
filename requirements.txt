@@ -1,0 +1,13 @@
+# Dependencias del notebook de análisis
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+shap
+lime
+openpyxl
+
+# Entorno para ejecutar notebooks localmente
+notebook
+ipykernel
