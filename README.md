@@ -36,6 +36,7 @@ Asegúrate de tener Python 3.8+ instalado. Puedes instalar las dependencias nece
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn shap lime tqdm
+```
 
 # 📊 Análisis de los Datos
 
